@@ -5,3 +5,5 @@ height : 171
 weight : 72
 
 home : chiba
+
+school : tut
