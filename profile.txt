@@ -1,3 +1,5 @@
 name : mac
 
 age : 20
+height : 171
+weight : 72
